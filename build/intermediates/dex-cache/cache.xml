@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="/Users/mnctv/.android/build-cache/aaea8520600126ad01c06cb132184f17af08295c/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="4a26a1154d053ab11aaf4c3967c42a4d66390991">
+        <dex dex="/Users/mnctv/Documents/Retrofit/AndroidGlobomanticsApp/app/build/intermediates/pre-dexed/debug/classes_1f5497d96330f17a68053e25819deb6e3a8c9e05.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/mnctv/.android/build-cache/126a8605362165a7f961b0820c9c8c615becd9f4/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="6ef31f1555bb4cc513ec8d52711365a8b89f3600">
+        <dex dex="/Users/mnctv/Documents/Retrofit/AndroidGlobomanticsApp/app/build/intermediates/pre-dexed/debug/classes_d55147e0314f395de13498af932b61f8204a014e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/mnctv/.gradle/caches/modules-2/files-2.1/com.android.support/support-annotations/25.3.1/bf8841d29fa39e077730e7a91222c2ce269fa7c9/support-annotations-25.3.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="bf8841d29fa39e077730e7a91222c2ce269fa7c9">
+        <dex dex="/Users/mnctv/Documents/Retrofit/AndroidGlobomanticsApp/app/build/intermediates/pre-dexed/debug/support-annotations-25.3.1_0be2d3729c7f7168a36f98ef2eaee114e7f5ee88.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/mnctv/.android/build-cache/d91b96032bd0adf3eaa36b90257dd21d360604b5/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="150252b33b00274cc868578ade018fda0d43a3eb">
+        <dex dex="/Users/mnctv/Documents/Retrofit/AndroidGlobomanticsApp/app/build/intermediates/pre-dexed/debug/classes_daf3f91e29aad44b052e3a0bda9ad3471fd8e8d0.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/mnctv/.android/build-cache/fded9a076c867ff0f0025ec983c53445af500021/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="95519720620b553f63afc789beba9ad582807f7c">
+        <dex dex="/Users/mnctv/Documents/Retrofit/AndroidGlobomanticsApp/app/build/intermediates/pre-dexed/debug/classes_8a60454f93be080a13159908f215e31d2a7ff28a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/mnctv/.android/build-cache/8f460b7ac70204b424f081143c872898b4ca87b7/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="d4cf6227dd6a2ceff0f7dcf0c324380b7abf2c28">
+        <dex dex="/Users/mnctv/Documents/Retrofit/AndroidGlobomanticsApp/app/build/intermediates/pre-dexed/debug/classes_c105c60770ab77dd34dc61fcd96eca461a07c4e3.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/mnctv/.android/build-cache/2cac45a13c88e02168a4a005d84e1b7228a550e4/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="45f697922e6f072daa12f8a2995dc77ab03c11da">
+        <dex dex="/Users/mnctv/Documents/Retrofit/AndroidGlobomanticsApp/app/build/intermediates/pre-dexed/debug/classes_d81de28b3acaa212f8d6c414a11aee82d9252242.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/mnctv/.android/build-cache/afaccb6169f1feb14d9681ea25b46b9fdc986a18/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="38789e20ace9ab7dbd00554bd2673ab424478d3b">
+        <dex dex="/Users/mnctv/Documents/Retrofit/AndroidGlobomanticsApp/app/build/intermediates/pre-dexed/debug/classes_ed0c78060b9ea9243a7e01b4c243f829c560b20c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/mnctv/.android/build-cache/8cc221433e734981cc3f9f70186802dd5db8db23/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="052f5f840f21174a3ecf6544130194e2652cbb73">
+        <dex dex="/Users/mnctv/Documents/Retrofit/AndroidGlobomanticsApp/app/build/intermediates/pre-dexed/debug/classes_f8e21ef79d1f831a0868ee097d44f71a1d87687a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/mnctv/.android/build-cache/e4a64526f0b03f7416f174ad569dba92e63d8cea/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/Users/mnctv/Documents/Retrofit/AndroidGlobomanticsApp/app/build/intermediates/pre-dexed/debug/classes_33d11eab276f03d651bafe31b254b011fa56785b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/mnctv/.android/build-cache/1caa9eeb1ad6ea472e93c84ad2dea3c15abadcb0/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="efb8cb62d47d157c29d1521daac7eefd4cb881ee">
+        <dex dex="/Users/mnctv/Documents/Retrofit/AndroidGlobomanticsApp/app/build/intermediates/pre-dexed/debug/classes_4681c4167062d568c3d3ff2e7db0a44660a6ed2f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/mnctv/.android/build-cache/701fc4b430b059479b45e8e3c6c2b5ec8b6924fc/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="da27a32db6af8954ee8061537c7d476fcb1df46f">
+        <dex dex="/Users/mnctv/Documents/Retrofit/AndroidGlobomanticsApp/app/build/intermediates/pre-dexed/debug/classes_cc97af563e4cfeedbb0b3e7d3e0204ca3dddc99a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/mnctv/.android/build-cache/16e29e41ce2a8b6595252e4eaacd85d473a515a2/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="47635644d0d5c103c1dd8360549eb9ba3225c7d3">
+        <dex dex="/Users/mnctv/Documents/Retrofit/AndroidGlobomanticsApp/app/build/intermediates/pre-dexed/debug/classes_65b1c199d0bff92d1e949e3005d5aa87942d3537.jar" />
+    </item>
+
+</items>
